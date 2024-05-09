@@ -31,4 +31,5 @@ In order to answer this business question, which is to find out the top 5 catego
   - Add up the total scores for each category by using “Sum If” formula.
 
 ### Task 3: Data Visualization and Storytelling
-
+- We create Graph and Pie chart
+- Prepare good presentation
