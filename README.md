@@ -33,3 +33,5 @@ In order to answer this business question, which is to find out the top 5 catego
 ### Task 3: Data Visualization and Storytelling
 - We create Graph and Pie chart
 - Prepare good presentation
+### Task 4: Present to the client
+- Let's put together a well-structured and informative presentation that effectively communicates our ideas to the client.
