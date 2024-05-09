@@ -15,19 +15,20 @@ The project involves a data analyst who acts as a link between business and data
 ### Task 2: Data Cleaning & Data Modeling
 In order to answer this business question, which is to find out the top 5 categories with the largest popularity, you don't necessarily need to use all the available datasets. Therefore, the first step is to use this [data model](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664297834541/Data%20model.pdf) to identify the necessary datasets for analysis. 
 
-After conducting the analysis, we found the following datasets to be required to complete the analysis: 
+- After conducting the analysis, we found the following datasets to be required to complete the analysis: 
   - Reaction Score (which quantify popularity)
   - Content ID
   - Reaction Type
   - Content Type
   - Category
 
-Clean the data by:
+- Clean the data by:
   - Removing rows that have values which are missing(by using Filters)
   - Changing the data type of some values within a column
   - Removing columns which are not relevant to this task(deleting the User ID and URL columns).
-
-**Data modeling** Create a final data set by merging these three data sets.
+- **Data modeling**: Create a final data set by merging these three data sets.
+  - First join the relevant columns from Content data set, and then the Reaction Types data set with Reaction data set(By using VLookUp formula)
+  - Add up the total scores for each category by using “Sum If” formula.
 
 ### Task 3: Data Visualization and Storytelling
 
