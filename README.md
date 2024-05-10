@@ -1,4 +1,5 @@
 # Project: Accenture North America Data Analytics and Visualization
+Certification: 
 ## Client : [Social Buzz](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664296994014/Data_Analytics%20Client%20Brief.pdf)
 ### Introduction to Project:
 The project involves a data analyst who acts as a link between business and data. **Social Buzz** is the client, and Accenture's Managing Director, Mae Mulligan, leads the project. She has gathered a diverse team of Accenture experts to deliver the project, and tomorrow morning, she has scheduled a project kick-off call with the internal Accenture project team.
